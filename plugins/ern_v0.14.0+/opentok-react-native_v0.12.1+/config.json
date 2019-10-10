@@ -2,7 +2,10 @@
   "android": {
     "root": "",
     "moduleName": "android",
-    "dependencies": ["com.opentok.android:opentok-android-sdk:2.16.1"]
+    "dependencies": ["com.opentok.android:opentok-android-sdk:2.16.1"],
+    "repositories" : [
+      "http://tokbox.bintray.com/maven"
+    ]
   }
 }
 
