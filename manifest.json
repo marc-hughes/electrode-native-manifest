@@ -156,7 +156,8 @@
       "react-native-svg@6.2.1",
       "react-native-exif@0.1.7",
       "react-native-view-shot@2.3.0",
-      "react-native-camera@1.0.1"
+      "react-native-camera@1.0.1",
+      "opentok-react-native@0.12.1"
     ],
     "targetJsDependencies": [
       "react@16.2.0"
