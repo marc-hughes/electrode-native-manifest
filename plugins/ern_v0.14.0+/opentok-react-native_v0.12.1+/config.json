@@ -1,7 +1,0 @@
-{
-  "android": {
-    "root": "",
-    "moduleName": "android",
-    "dependencies": ["com.opentok.android:opentok-android-sdk:2.16.1"]
-  }
-}
